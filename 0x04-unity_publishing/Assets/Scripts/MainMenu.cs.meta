@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 62edf359c110799459d82caca792b97c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - trapMat: {fileID: 2100000, guid: 4e9a1542f1230ff438bd0e4e5f7d798e, type: 2}
+  - goalMat: {fileID: 2100000, guid: 0c3ae340882f21040956fdb95fbc37da, type: 2}
+  - colorblindMode: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
